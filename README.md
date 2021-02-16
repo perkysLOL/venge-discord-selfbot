@@ -1,2 +1,5 @@
 # venge-discord-selfbot
- selfbot i made on python
+
+Made on python compatible with every device
+
+Scroll to bottom paste token where it says 
