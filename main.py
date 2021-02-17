@@ -2181,6 +2181,6 @@ async def mytoken(ctx):
 
 
 
-token = "YOUR TOKEN"
+token = "ODExNjU5MTY2MTU4MjkwOTc1.YC1avw.wgKbSbI7Q98zBS6p0bGtI3vpbCk"
 
-client.run("YOUR TOKEN", bot=False)
+client.run("ODExNjU5MTY2MTU4MjkwOTc1.YC1avw.wgKbSbI7Q98zBS6p0bGtI3vpbCk", bot=False)
